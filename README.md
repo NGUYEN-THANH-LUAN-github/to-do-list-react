@@ -1,3 +1,3 @@
 # to-do-list-react
 
-[demo](https://nguyen-thanh-luan-github.github.io/to-do-list-react/)
+[demo](https://thanh-luan-nguyen.github.io/to-do-list-react/)
